@@ -1,5 +1,4 @@
 package org.example;
-
 import com.google.gson.JsonParseException;
 
 import java.io.IOException;
